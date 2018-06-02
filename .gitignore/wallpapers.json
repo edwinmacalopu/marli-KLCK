@@ -1,17 +1,30 @@
 {
   "wallpapers": [
     
+    
     {
-      "author": "google+",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/GOOGL.jpg",
-      "name": "yossli40",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/GOOGL.jpg"
+      "author": "Sigve Lien",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig4.jpg",
+      "name": "wall4",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig4pre.jpg"
+    },
+    {
+      "author": "Sigve Lien",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig3.jpg",
+      "name": "wall3",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig3pre.jpg"
+    },
+    {
+      "author": "Sigve Lien",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig2.jpg",
+      "name": "wall2",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig2pre.jpg"
     },
      {
-      "author": "yossli",
-      "url": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli39.jpg",
-      "name": "yossli39",
-      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/YossliKWGT/master/yossli39.jpg"
+      "author": "Sigve Lien",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig1.jpg",
+      "name": "wall1",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig1pre.jpg"
     }
     
   ]
