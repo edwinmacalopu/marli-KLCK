@@ -1,7 +1,12 @@
 {
   "wallpapers": [
     
-    
+    {
+      "author": "miluwalls",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mephi123.png",
+      "name": "wall5",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mephi123.png"
+    },
     {
       "author": "Sigve Lien",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig4.jpg",
