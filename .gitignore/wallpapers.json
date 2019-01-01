@@ -1,6 +1,24 @@
 {
   "wallpapers": [
     
+      {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig7.jpg",
+      "name": "wall8",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig7.jpg"
+    },
+    {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig6.jpg",
+      "name": "wall7",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig6.jpg"
+    },
+    {
+      "author": "unsplash",
+      "url": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig5.jpg",
+      "name": "wall6",
+      "thumbnail": "https://raw.githubusercontent.com/edwinmacalopu/marli-KLCK/master/.gitignore/sig5.jpg"
+    },
     {
       "author": "miluwalls",
       "url": "https://raw.githubusercontent.com/edwinmacalopu/wxllpaper/master/mephi123.png",
